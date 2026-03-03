@@ -1,0 +1,1 @@
+{"name": "personal-search","version": "1.0.0","description": "A personal search application","main": "index.js","scripts": {"test": "echo 'Error: no test specified' && exit 1"},"repository": {"type": "git","url": "git+https://github.com/photos1136p-hash/personal-search.git"},"author": "Your Name","license": "ISC"}
