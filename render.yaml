@@ -1,0 +1,12 @@
+# Render Deployment Configuration
+
+services:
+  - type: web
+    name: my-service
+    env: node
+    buildCommand: npm install
+    startCommand: npm start
+    url: https://my-service.onrender.com
+    regions:
+      - oregon
+    plan: starter
